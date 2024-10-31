@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wet_protein\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 09:31+0200\n"
+"PO-Revision-Date: 2012-05-02 09:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wet_proteinshake.php:22
+#: wet_proteinshake.php:30
+msgid "Protein Shake Recipe"
+msgstr "Protein Shake Recipe"
+
+#: wet_proteinshake.php:25
+msgid "Allows the user to calculate her optimum post-workout protein shake recipe."
+msgstr "Allows the user to calculate her optimum post-workout protein shake recipe."
+
+#: wet_proteinshake.php:43
+msgid "Calculate Your Protein Shake Recipe"
+msgstr "Calculate Your Protein Shake Recipe"
+
+#: wet_proteinshake.php:44
+msgid "Calculate"
+msgstr "Calculate"
+
+#: wet_proteinshake.php:60
+msgid "Title:"
+msgstr "Title:"
+
+#: wet_proteinshake.php:62
+msgid "Button Text:"
+msgstr "Button Text:"
+
+#: wet_proteinshake.php:64
+msgid "Credit link:"
+msgstr "Credit link:"
+
+#: wet_proteinshake.php:66
+msgid "US units:"
+msgstr "US units:"
+
+#: wet_proteinshake.php:68
+msgid "Metric units:"
+msgstr "Metric units:"
+
+#: wet_proteinshake.php:84
+msgid "Weight"
+msgstr "Weight"
+
+#: wet_proteinshake.php:85
+msgid "Carbohydrate"
+msgstr "Carbohydrate"
+
+#: wet_proteinshake.php:86
+msgid "Water"
+msgstr "Water"
+
+#: wet_proteinshake.php:87
+msgid "Protein"
+msgstr "Protein"
+
+#: wet_proteinshake.php:88
+msgid "Daily protein dose"
+msgstr "Daily protein dose"
+
+#: wet_proteinshake.php:95
+msgid "."
+msgstr "."
+
+#: wet_proteinshake.php:137
+msgid "This Widget requires Javascript"
+msgstr "This Widget requires Javascript"
+
+#: wet_proteinshake.php:162
+msgid "by"
+msgstr "by"
+
+#: wet_proteinshake.php:162
+msgid "Whey Protein Institut"
+msgstr "Whey Protein Institute"
+
+#~ msgid "Results in ounces:"
+#~ msgstr "Results in ounces:"
+#~ msgid "Results in grams:"
+#~ msgstr "Results in grams:"
+#~ msgid "Post Workout Shake"
+#~ msgstr "Post Workout Shake"
+

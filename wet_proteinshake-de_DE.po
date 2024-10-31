@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wet_proteinshake\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-02 09:31+0200\n"
+"PO-Revision-Date: 2012-05-02 09:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wet_proteinshake.php:22
+#: wet_proteinshake.php:30
+msgid "Protein Shake Recipe"
+msgstr "Protein-Shake-Rezept"
+
+#: wet_proteinshake.php:25
+msgid "Allows the user to calculate her optimum post-workout protein shake recipe."
+msgstr "Dient zur Berechnung des optimalen Post-Workout Protein-Shakes."
+
+#: wet_proteinshake.php:43
+msgid "Calculate Your Protein Shake Recipe"
+msgstr "Berechne dein Protein-Shake-Rezept"
+
+#: wet_proteinshake.php:44
+msgid "Calculate"
+msgstr "Berechnen"
+
+#: wet_proteinshake.php:60
+msgid "Title:"
+msgstr "Titel:"
+
+#: wet_proteinshake.php:62
+msgid "Button Text:"
+msgstr "Text der Schalftfläche:"
+
+#: wet_proteinshake.php:64
+msgid "Credit link:"
+msgstr "Link zur Quelle:"
+
+#: wet_proteinshake.php:66
+msgid "US units:"
+msgstr "US-Maße:"
+
+#: wet_proteinshake.php:68
+msgid "Metric units:"
+msgstr "Metrische Maße:"
+
+#: wet_proteinshake.php:84
+msgid "Weight"
+msgstr "Gewicht"
+
+#: wet_proteinshake.php:85
+msgid "Carbohydrate"
+msgstr "Kohlenhydrat"
+
+#: wet_proteinshake.php:86
+msgid "Water"
+msgstr "Wasser"
+
+#: wet_proteinshake.php:87
+msgid "Protein"
+msgstr "Protein"
+
+#: wet_proteinshake.php:88
+msgid "Daily protein dose"
+msgstr "Tägliche Proteinmenge"
+
+#: wet_proteinshake.php:95
+msgid "."
+msgstr ","
+
+#: wet_proteinshake.php:137
+msgid "This Widget requires Javascript"
+msgstr "Dieses Widget benötigt Javascript"
+
+#: wet_proteinshake.php:162
+msgid "by"
+msgstr "Von"
+
+#: wet_proteinshake.php:162
+msgid "Whey Protein Institut"
+msgstr "Whey Protein Institut"
+
+#~ msgid "Results in ounces:"
+#~ msgstr "Ergebnisse in Unzen:"
+#~ msgid "Results in grams:"
+#~ msgstr "Ergebnisse in Gramm:"
+#~ msgid "Post Workout Shake"
+#~ msgstr "Post-Workout-Shake"
+
